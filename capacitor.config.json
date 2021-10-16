@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "5amclub",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

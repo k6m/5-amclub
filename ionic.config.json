@@ -1,0 +1,8 @@
+{
+  "name": "5amclub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c0c2726e"
+}
